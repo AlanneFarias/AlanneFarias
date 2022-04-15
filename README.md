@@ -9,13 +9,8 @@
 <br />
 
 ## About me ✨
-
-  * Desenvolvedora Frontend em Desenvolvimento 🚧🚀🚧
-  * Atualmente estou estudando... 
-
-    ![HTML5](https://img.shields.io/badge/-HTML5-red)
-    ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+   Vivendo uma transição de carreira|Cientista de dados em  formação
+   
 
 <br />
 <br />
